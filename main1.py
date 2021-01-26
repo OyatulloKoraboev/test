@@ -10,7 +10,8 @@ def res(arg):
 
 
 users = res('results=5')
-
+gender = res('gender=male')
+nationalities = res('nat=us')
 
 
 
@@ -18,6 +19,8 @@ users = res('results=5')
 
 dictionary = {
     "Users": users,
+    "Gender": gender,
+    'Nationalities': nationalities
 }
 
 json_object = json.dumps(dictionary, indent=4)
