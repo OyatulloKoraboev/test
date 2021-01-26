@@ -18,32 +18,14 @@ def res1(arg):
     return data
 
 
-dif_currency = res1('latest?base=RUB')
-
-
-def res2(arg):
-    var = requests.get(f'https://api.exchangeratesapi.io/{arg}')
-    data = json.loads(var.text)
-    return data
-
-
-character = res2('latest?symbols=USD,GBP')
-
-
-def res3(arg):
-    var = requests.get(f'https://api.exchangeratesapi.io/{arg}')
-    data = json.loads(var.text)
-    return data
-
-
-dates = res3('history?start_at=2018-01-01&end_at=2018-01-07')
-
-
+currency = res1('latest?base=RUB')
+character = res1('latest?symbols=USD,GBP')
+dates = res1('history?start_at=2018-01-01&end_at=2018-01-07')
 
 
 dictionary = {
     "Difference": difference,
-    'Different currency': dif_currency,
+    'Different currency': currency,
     'Different_character': character,
     'Different_dates': dates,
 }
