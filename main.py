@@ -1,7 +1,5 @@
 import requests
 import json
-from pprint import pprint
-
 
 def res(arg):
     var = requests.get(f'https://api.exchangeratesapi.io/{arg}')
