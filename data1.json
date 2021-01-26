@@ -1,0 +1,292 @@
+{
+    "Users": {
+        "results": [
+            {
+                "gender": "female",
+                "name": {
+                    "title": "Mrs",
+                    "first": "Isla",
+                    "last": "Wirta"
+                },
+                "location": {
+                    "street": {
+                        "number": 1358,
+                        "name": "Bulevardi"
+                    },
+                    "city": "Viitasaari",
+                    "state": "Pirkanmaa",
+                    "country": "Finland",
+                    "postcode": 82532,
+                    "coordinates": {
+                        "latitude": "-15.7913",
+                        "longitude": "176.7367"
+                    },
+                    "timezone": {
+                        "offset": "-5:00",
+                        "description": "Eastern Time (US & Canada), Bogota, Lima"
+                    }
+                },
+                "email": "isla.wirta@example.com",
+                "login": {
+                    "uuid": "6f8420f8-cb6e-4e04-957e-8eb3545cdb1f",
+                    "username": "whiteleopard903",
+                    "password": "jordan",
+                    "salt": "SB73asft",
+                    "md5": "552727c4f5bb8c4671df6b42aea8e05a",
+                    "sha1": "bc31759db468693c27c9e69aefa1145580966ada",
+                    "sha256": "50edcdd93653b2f3ceb6d3c32927ecb058d5c2684892226b413d018d5e94692e"
+                },
+                "dob": {
+                    "date": "1982-12-01T05:13:44.351Z",
+                    "age": 39
+                },
+                "registered": {
+                    "date": "2006-03-14T02:02:20.799Z",
+                    "age": 15
+                },
+                "phone": "04-378-609",
+                "cell": "049-135-67-27",
+                "id": {
+                    "name": "HETU",
+                    "value": "NaNNA392undefined"
+                },
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/women/31.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/women/31.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/31.jpg"
+                },
+                "nat": "FI"
+            },
+            {
+                "gender": "male",
+                "name": {
+                    "title": "Mr",
+                    "first": "Ralf",
+                    "last": "Adriaanse"
+                },
+                "location": {
+                    "street": {
+                        "number": 946,
+                        "name": "Eerste Looiersdwarsstraat"
+                    },
+                    "city": "Castricum",
+                    "state": "Limburg",
+                    "country": "Netherlands",
+                    "postcode": 95666,
+                    "coordinates": {
+                        "latitude": "84.1173",
+                        "longitude": "-142.3145"
+                    },
+                    "timezone": {
+                        "offset": "+5:30",
+                        "description": "Bombay, Calcutta, Madras, New Delhi"
+                    }
+                },
+                "email": "ralf.adriaanse@example.com",
+                "login": {
+                    "uuid": "59ac3b4f-5c7b-40b1-b26f-281c7a94f24d",
+                    "username": "bluefish844",
+                    "password": "willard",
+                    "salt": "iGdVEOLr",
+                    "md5": "adc83f36bac8c8ccfd666348e3a4902d",
+                    "sha1": "89031a19173e4e05bba64d5290d9e72219df41a2",
+                    "sha256": "45c6764a5fbb029e04a5e0d55a360bc61df59495505c5873c1bcf3c9f744ec51"
+                },
+                "dob": {
+                    "date": "1977-06-27T09:11:52.416Z",
+                    "age": 44
+                },
+                "registered": {
+                    "date": "2015-03-06T21:08:13.685Z",
+                    "age": 6
+                },
+                "phone": "(089)-150-4825",
+                "cell": "(109)-626-8828",
+                "id": {
+                    "name": "BSN",
+                    "value": "47412679"
+                },
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/men/57.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/men/57.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/57.jpg"
+                },
+                "nat": "NL"
+            },
+            {
+                "gender": "male",
+                "name": {
+                    "title": "Mr",
+                    "first": "Bruno",
+                    "last": "Melo"
+                },
+                "location": {
+                    "street": {
+                        "number": 2133,
+                        "name": "Rua Principal"
+                    },
+                    "city": "Valinhos",
+                    "state": "Para\u00edba",
+                    "country": "Brazil",
+                    "postcode": 90173,
+                    "coordinates": {
+                        "latitude": "19.2584",
+                        "longitude": "86.3639"
+                    },
+                    "timezone": {
+                        "offset": "0:00",
+                        "description": "Western Europe Time, London, Lisbon, Casablanca"
+                    }
+                },
+                "email": "bruno.melo@example.com",
+                "login": {
+                    "uuid": "90ee1806-d482-40f9-89ce-3e7c7239ce12",
+                    "username": "happycat929",
+                    "password": "destroy",
+                    "salt": "RxWf1kL7",
+                    "md5": "f3a86304ec7de7107c9ec9b91c83396e",
+                    "sha1": "7aafb56f1dc710e10ede20bd1e09bf953d980c42",
+                    "sha256": "d2a7770717e78ca7abd576c39b8cc4d28a6a100e0e7e2a75b8de7beb59e71ce8"
+                },
+                "dob": {
+                    "date": "1987-12-29T08:35:22.607Z",
+                    "age": 34
+                },
+                "registered": {
+                    "date": "2014-08-05T21:41:47.939Z",
+                    "age": 7
+                },
+                "phone": "(41) 8556-2802",
+                "cell": "(08) 1569-2712",
+                "id": {
+                    "name": "",
+                    "value": null
+                },
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/men/97.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/men/97.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/97.jpg"
+                },
+                "nat": "BR"
+            },
+            {
+                "gender": "female",
+                "name": {
+                    "title": "Miss",
+                    "first": "Sedef",
+                    "last": "Ak\u015fit"
+                },
+                "location": {
+                    "street": {
+                        "number": 469,
+                        "name": "Tunal\u0131 Hilmi Cd"
+                    },
+                    "city": "Elaz\u0131\u011f",
+                    "state": "\u0130stanbul",
+                    "country": "Turkey",
+                    "postcode": 84320,
+                    "coordinates": {
+                        "latitude": "-54.3456",
+                        "longitude": "27.2119"
+                    },
+                    "timezone": {
+                        "offset": "+7:00",
+                        "description": "Bangkok, Hanoi, Jakarta"
+                    }
+                },
+                "email": "sedef.aksit@example.com",
+                "login": {
+                    "uuid": "738f8eb6-c1d2-49f4-a2ec-bf72e98a3d03",
+                    "username": "greenbear307",
+                    "password": "annie1",
+                    "salt": "BGgi5QNh",
+                    "md5": "e581157016d87aa7b6a7e1b26ecb2e5d",
+                    "sha1": "7a65902f9ca19f5b555f50c70439714b22a9c771",
+                    "sha256": "9ac4933f03b207e79641a441e88b49d730188f8c8886d2ffe895cb638cfba036"
+                },
+                "dob": {
+                    "date": "1977-06-10T00:29:07.379Z",
+                    "age": 44
+                },
+                "registered": {
+                    "date": "2006-12-10T02:43:39.110Z",
+                    "age": 15
+                },
+                "phone": "(720)-519-0217",
+                "cell": "(616)-554-0177",
+                "id": {
+                    "name": "",
+                    "value": null
+                },
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/women/17.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/women/17.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/17.jpg"
+                },
+                "nat": "TR"
+            },
+            {
+                "gender": "male",
+                "name": {
+                    "title": "Mr",
+                    "first": "Anton",
+                    "last": "Huhtala"
+                },
+                "location": {
+                    "street": {
+                        "number": 5549,
+                        "name": "Mannerheimintie"
+                    },
+                    "city": "Kihni\u00f6",
+                    "state": "Central Ostrobothnia",
+                    "country": "Finland",
+                    "postcode": 56761,
+                    "coordinates": {
+                        "latitude": "-74.3003",
+                        "longitude": "116.9364"
+                    },
+                    "timezone": {
+                        "offset": "+5:30",
+                        "description": "Bombay, Calcutta, Madras, New Delhi"
+                    }
+                },
+                "email": "anton.huhtala@example.com",
+                "login": {
+                    "uuid": "389f3c23-efe1-45d0-a46d-7812eba11603",
+                    "username": "redpeacock301",
+                    "password": "lexmark",
+                    "salt": "ed65GGdM",
+                    "md5": "eda46577395ec720438b6a35ba544cb0",
+                    "sha1": "5cc4a008be3708ecca9c0e17de92795ff94dd44b",
+                    "sha256": "0127209fa7ef8b14c1019787d7f842b0c28c7aab14cabb8f9c0031cf91f4fbf6"
+                },
+                "dob": {
+                    "date": "1947-10-05T20:30:25.449Z",
+                    "age": 74
+                },
+                "registered": {
+                    "date": "2009-02-14T21:35:56.678Z",
+                    "age": 12
+                },
+                "phone": "04-694-854",
+                "cell": "044-084-28-87",
+                "id": {
+                    "name": "HETU",
+                    "value": "NaNNA939undefined"
+                },
+                "picture": {
+                    "large": "https://randomuser.me/api/portraits/men/97.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/men/97.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/men/97.jpg"
+                },
+                "nat": "FI"
+            }
+        ],
+        "info": {
+            "seed": "5316ed42c5d6d251",
+            "results": 5,
+            "page": 1,
+            "version": "1.3"
+        }
+    }
+}
